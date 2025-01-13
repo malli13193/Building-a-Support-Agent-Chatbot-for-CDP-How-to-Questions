@@ -119,7 +119,7 @@ The conversation module of the chatbot seamlessly incorporates the buffer memory
 Contributions to enhance features or add new capabilities are welcome! Fork the repository, make your changes, and submit a pull request.
 
 ## Contact Information
-For inquiries or feedback, reach out to [benaliazizaba000@gmail.com] 
+For inquiries or feedback, reach out to [mallikarjunareddykanala2003@gmail.com] 
 
 
 
