@@ -1,0 +1,26 @@
+langchain==0.0.348
+langchain-experimental==0.0.45
+pydantic==1.10.13
+streamlit==1.29.0
+python-dotenv==1.0.0
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+PyPDF2==3.0.1
+datetime==5.1
+
+
+# pip install sentence-transformers
+# pip install numexpr pdfplumber pyttsx3 langchain streamlit PyPDF2 FAISS
+# pip install tabulate
+# pip install faiss-gpu
+
+
+# setx AI21_API_KEY "sl5nemBcroNejbEnJ4f72NeTqTk2zIVc"
+
+# $env:AI21_API_KEY
+
+# setx HUGGINGFACEHUB_API_TOKEN "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"
+# echo %HUGGINGFACEHUB_API_TOKEN%
+#
+# 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
+# streamlit run app.py 
